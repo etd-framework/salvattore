@@ -1,0 +1,14 @@
+{
+  "name": "etdsolutions/salvattore",
+  "description": "Shim repository for Salvattore",
+  "homepage": "http://salvattore.com",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Rolando Murillo"
+    },
+    {
+      "name": "Giorgio Leveroni"
+    }
+  ]
+}
